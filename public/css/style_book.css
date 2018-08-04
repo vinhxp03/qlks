@@ -1,0 +1,48 @@
+*{margin: 0; padding: 0}
+
+#book .form_error {
+    color:  red;
+    margin-top:  3px;
+    margin-left: 3px;
+}
+
+button.btn.btn-danger {margin-top:  10px;width:  225px;font-size: 15px;}
+
+#book .form-group {
+    margin-bottom: 25px;
+}
+
+span.input-group-addon {
+}
+
+#book input[type="date"] {
+    width: 100%;
+    height: 30px;
+    padding-left: 5px;
+}
+
+#book input[type="text"] {
+    width: 100%;
+    height: 30px;
+    padding-left: 5px;
+}
+
+#book select {
+    width:  100%;
+    padding-left: 3px;
+    height: 30px;
+}
+.gohome {
+    margin-top: 40px;
+}
+
+.gohome a {
+    border: 1px solid red;
+    color:  red;
+    padding: 10px;
+}
+
+.gohome a:hover {
+    text-decoration:  none;
+    color: #ffbe00;
+}
